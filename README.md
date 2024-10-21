@@ -1,6 +1,11 @@
 # ✨ AnimatedFox ✨
 A minimal Firefox theme with a hidden URL bar and satisfying animations.
 
+Firefox color addon for rose pine:
+https://color.firefox.com/?theme=XQAAAAKRAQAAAAAAAABBqYhm849SCia73laEGccwS-xMDPr3WmqH6mLhhyRv-nu52zZ2ZXxbtAepG2Aokh1Ejdb1z3vrcjLsdAKABouvjElgsj_nFz6MQxH2HRXLob_aSHZCs-03dPBFDf6tPSs9IqYQstQ2Cbw-qOTEPMNK3ejQcbczf4LZTVpiOe9JSd9ix_m31iP9q97cT8kzzlHgkCa4xCvSugNadk4FxHf7Csqg4PVC6q5qfb0JnI0tyV6nqN_23o0FiIWCfD4nN1vFq4skKEYXLQVpZXuw87O8_hn6bCVjGn5MEww-8ezpXrdZ20ZS9hUa3OLWgsv_yQh1Vg
+
+
+
 https://github.com/RemyIsCool/AnimatedFox/assets/97812130/7c1ea741-5b01-4e7f-892f-2bad5ad54362
 
 ## 🖥️ Requirements
