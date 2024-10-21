@@ -1,5 +1,5 @@
 # ✨ AnimatedFox Rosé Pine ✨
-A minimal Firefox theme with a hidden URL bar and satisfying animations.
+A minimal Firefox theme with a hidden URL bar and satisfying animations. (originally by [RemyIsCool](https://github.com/RemyIsCool) )
 
 ![image](https://github.com/user-attachments/assets/a864c893-7282-4f41-ae03-1c698bb61fd5)
 
