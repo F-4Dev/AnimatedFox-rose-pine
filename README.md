@@ -1,12 +1,11 @@
 # ✨ AnimatedFox ✨
 A minimal Firefox theme with a hidden URL bar and satisfying animations.
 
-Firefox color addon for rose pine:
-https://color.firefox.com/?theme=XQAAAAKRAQAAAAAAAABBqYhm849SCia73laEGccwS-xMDPr3WmqH6mLhhyRv-nu52zZ2ZXxbtAepG2Aokh1Ejdb1z3vrcjLsdAKABouvjElgsj_nFz6MQxH2HRXLob_aSHZCs-03dPBFDf6tPSs9IqYQstQ2Cbw-qOTEPMNK3ejQcbczf4LZTVpiOe9JSd9ix_m31iP9q97cT8kzzlHgkCa4xCvSugNadk4FxHf7Csqg4PVC6q5qfb0JnI0tyV6nqN_23o0FiIWCfD4nN1vFq4skKEYXLQVpZXuw87O8_hn6bCVjGn5MEww-8ezpXrdZ20ZS9hUa3OLWgsv_yQh1Vg
+If you want the same colors as the screenshot [(rosé pine)](https://rosepinetheme.com/), install [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color), then click [this link](https://color.firefox.com/?theme=XQAAAAJvAQAAAAAAAABBKYhm849SCia6aSqEGccwS-xMDPr79BBHlbukoJ1XpIq5hjxKu7S0U9lCpfLby_MuT9uV4fsIlHDN4w0iPOF2qkutG6LdQPflhViMuNpfMCNFmKDH2Qhyehu6MLzXNQVs0GY1r7ovoIKuXhztaOFq4FJioxA6R9vRCSJuYTYjMcrT3wBcJ_XdWHORl4vB5EsBIyfUdxh6pWun2gm3c5dZSWxgRjZgQNbYla1JkPdZXrRZJu4Yn_cR-hQmKENt0sT5rV-8_-VWOmA](https://color.firefox.com/?theme=XQAAAAKRAQAAAAAAAABBqYhm849SCia73laEGccwS-xMDPr3WmqH6mLhhyRv-nu52zZ2ZXxbtAepG2Aokh1Ejdb1z3vrcjLsdAKABouvjElgsj_nFz6MQxH2HRXLob_aSHZCs-03dPBFDf6tPSs9IqYQstQ2Cbw-qOTEPMNK3ejQcbczf4LZTVpiOe9JSd9ix_m31iP9q97cT8kzzlHgkCa4xCvSugNadk4FxHf7Csqg4PVC6q5qfb0JnI0tyV6nqN_23o0FiIWCfD4nN1vFq4skKEYXLQVpZXuw87O8_hn6bCVjGn5MEww-8ezpXrdZ20ZS9hUa3OLWgsv_yQh1Vg
+)
 
+![image](https://github.com/user-attachments/assets/a864c893-7282-4f41-ae03-1c698bb61fd5)
 
-
-https://github.com/RemyIsCool/AnimatedFox/assets/97812130/7c1ea741-5b01-4e7f-892f-2bad5ad54362
 
 ## 🖥️ Requirements
  - 🦊 An up-to-date version of Firefox or LibreWolf. Other Firefox derivatives might work but I haven't tested them.
