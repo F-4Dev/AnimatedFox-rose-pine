@@ -1,5 +1,5 @@
 # ✨ AnimatedFox Rosé Pine ✨
-A minimal Firefox theme with a hidden URL bar and satisfying animations. (originally by [RemyIsCool](https://github.com/RemyIsCool) )
+A minimal Firefox theme with a hidden URL bar and satisfying animations. (originally by [RemyIsCool](https://github.com/RemyIsCool))
 
 ![image](https://github.com/user-attachments/assets/a864c893-7282-4f41-ae03-1c698bb61fd5)
 
@@ -7,7 +7,9 @@ If you want the same colors as the screenshot [(Rosé Pine)](https://rosepinethe
 )
 
 ## Home Screen
-I use the [mtab](https://github.com/maxhu08/mtab) extension with this [config](https://github.com/user-attachments/files/17462553/mtab-config.txt)
+I use the [mtab](https://github.com/maxhu08/mtab) extension with this [config](https://github.com/user-attachments/files/17462553/mtab-config.txt) and I use this as the [wallpaper](https://github.com/user-attachments/assets/5cf124f3-d645-44c5-af42-b06e513bb21d).
+
+---
 
 ## 🖥️ Requirements
  - 🦊 An up-to-date version of Firefox or LibreWolf. Other Firefox derivatives might work but I haven't tested them.
@@ -58,6 +60,3 @@ git pull
  - Color themes with transparency usually don't work well.
 
 If anyone knows how to fix these issues, feel free to submit a pull request.
-
----
-For the new tab page, see https://github.com/RemyIsCool/New-Tab-Page.
