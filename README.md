@@ -8,7 +8,7 @@ If you want the same colors as the screenshot [(Rosé Pine)](https://rosepinethe
 ).
 
 ## Home Screen
-I use the [mtab](https://github.com/maxhu08/mtab) extension with this [config](https://github.com/F-4Dev/AnimatedFox-rose-pine/blob/main/mtab-config.txt) and I use this as the [wallpaper](https://github.com/user-attachments/assets/5cf124f3-d645-44c5-af42-b06e513bb21d).
+I use the [mtab](https://github.com/maxhu08/mtab) extension with this [config](https://raw.githubusercontent.com/F-4Dev/AnimatedFox-rose-pine/refs/heads/main/mtab-config.txt).
 
 ---
 
