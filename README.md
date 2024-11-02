@@ -4,7 +4,7 @@ A minimal Firefox theme with a hidden URL bar and satisfying animations. (origin
 ![image](https://github.com/user-attachments/assets/ff9b33e6-8eb8-4b4b-bacf-466ae3752379)
 
 
-If you want the same colors as the screenshot [(Rosé Pine)](https://rosepinetheme.com/), install [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color), then click [this link](https://color.firefox.com/?theme=XQAAAAJvAQAAAAAAAABBKYhm849SCia6aSqEGccwS-xMDPr79BBHlbukoJ1XpIq5hjxKu7S0U9lCpfLby_MuT9uV4fsIlHDN4w0iPOF2qkutG6LdQPflhViMuNpfMCNFmKDH2Qhyehu6MLzXNQVs0GY1r7ovoIKuXhztaOFq4FJioxA6R9vRCSJuYTYjMcrT3wBcJ_XdWHORl4vB5EsBIyfUdxh6pWun2gm3c5dZSWxgRjZgQNbYla1JkPdZXrRZJu4Yn_cR-hQmKENt0sT5rV-8_-VWOmA](https://color.firefox.com/?theme=XQAAAAKRAQAAAAAAAABBqYhm849SCia73laEGccwS-xMDPr3WmqH6mLhhyRv-nu52zZ2ZXxbtAepG2Aokh1Ejdb1z3vrcjLsdAKABouvjElgsj_nFz6MQxH2HRXLob_aSHZCs-03dPBFDf6tPSs9IqYQstQ2Cbw-qOTEPMNK3ejQcbczf4LZTVpiOe9JSd9ix_m31iP9q97cT8kzzlHgkCa4xCvSugNadk4FxHf7Csqg4PVC6q5qfb0JnI0tyV6nqN_23o0FiIWCfD4nN1vFq4skKEYXLQVpZXuw87O8_hn6bCVjGn5MEww-8ezpXrdZ20ZS9hUa3OLWgsv_yQh1Vg
+If you want the same colors as the screenshot [(Rosé Pine)](https://rosepinetheme.com/), install [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color), then click [this link](https://color.firefox.com/?theme=XQAAAAKRAQAAAAAAAABBqYhm849SCia73laEGccwS-xMDPr3WmqH6mLhhyRv-nu52zZ2ZXxbtAepG2Aokh1Ejdb1z3vrcjLsdAKABouvjElgsj_nFz6MQxH2HRXLob_aSHZCs-03dPBFDf6tPSs9IqYQstQ2Cbw-qOTEPMNK3ejQcbczf4LZTVpiOe9JSd9ix_m31iP9q97cT8kzzlHgkCa4xCvSugNadk4FxHf7Csqg4PVC6q5qfb0JnI0tyV6nqN_23o0FiIWCfD4nN1vFq4skKEYXLQVpZXuw87O8_hn6bCVjGn5MEww-8ezpXrdZ20ZS9hUa3OLWgsv_yQh1Vg
 ).
 
 ## Home Screen
